@@ -1,0 +1,10 @@
+[{"ID":1, "Nombre":"Juanita Zuluaga", "Telefono":3346798, "Estado_del_pedido":"Entregado", "Fecha_de_entrega":"2003-10-30", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"},
+ {"ID":1, "Nombre":"Juanita Zuluaga", "Telefono":3346798, "Estado_del_pedido":"Entregado", "Fecha_de_entrega":"2003-10-30", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"},
+ {"ID":2, "Nombre":"Pepito Perez", "Telefono":4327645, "Estado_del_pedido":"No entregado", "Fecha_de_entrega":"2003-12-30", "Pedido":"Camisa de rayas , Camisa de muchas rayas"},
+ {"ID":2, "Nombre":"Pepito Perez", "Telefono":4327645, "Estado_del_pedido":"No entregado", "Fecha_de_entrega":"2003-12-30", "Pedido":"Camisa de rayas , Camisa de muchas rayas"},
+ {"ID":3, "Nombre":"Maria Morales", "Telefono":348769, "Estado_del_pedido":"No Entregado", "Fecha_de_entrega":"2003-10-30", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"},
+ {"ID":3, "Nombre":"Maria Morales", "Telefono":348769, "Estado_del_pedido":"No Entregado", "Fecha_de_entrega":"2002-10-30", "Pedido":"Camisa de rayas , Camisa de muchas rayas"},
+ {"ID":4, "Nombre":"Josefa Herrera", "Telefono":3560933, "Estado_del_pedido":"Entregado", "Fecha_de_entrega":"2001-10-30", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"},
+ {"ID":5, "Nombre":"Carlos Restrepo", "Telefono":3398654, "Estado_del_pedido":"Entregado", "Fecha_de_entrega":"2003-09-10", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"},
+ {"ID":6, "Nombre":"Roberto Zapata", "Telefono":3659800, "Estado_del_pedido":"Entregado", "Fecha_de_entrega":"2003-05-08", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"},
+ {"ID":6, "Nombre":"Roberto Zapata", "Telefono":3659800, "Estado_del_pedido":"No Entregado", "Fecha_de_entrega":"2003-05-08", "Pedido":"Tenis Nike , Zapatillas deportivas blancas marca Nike"}]

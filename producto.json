@@ -1,0 +1,3 @@
+[{"idProducto":1, "Descripcion":"Zapatillas deportivas blancas marca Nike", "Nombre":"Tenis Nike", "Precio":175000.0, "Color":{"color": ["blanco, rosa, verde"]}},
+ {"idProducto":2, "Descripcion":"Sudadera deportiva con bolsillo delantero", "Nombre":"Sudadera gris Adidas", "Precio":215000.0, "Color":{"color": ["rojo, gris, cobalto"]}},
+ {"idProducto":3, "Descripcion":"Camisa de muchas rayas", "Nombre":"Camisa de rayas", "Precio":87900.0, "Color":{"color": ["negro, blanco"]}}]

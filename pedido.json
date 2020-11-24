@@ -1,0 +1,10 @@
+[{"idPedido":1, "Estado":"No entregado", "DireccionDeEntrega":"calle 5", "MetodoDePago":"Tarjeta", "FechaDeEntrega":"2003-12-30", "FechaDeEncargo":"2003-12-31", "idCliente":2},
+ {"idPedido":2, "Estado":"Entregado", "DireccionDeEntrega":"carrera 12", "MetodoDePago":"Efectivo", "FechaDeEntrega":"2003-10-30", "FechaDeEncargo":"2003-10-31", "idCliente":1},
+ {"idPedido":3, "Estado":"No Entregado", "DireccionDeEntrega":"carrera 2", "MetodoDePago":"Tarjeta", "FechaDeEntrega":"2003-10-30", "FechaDeEncargo":"2003-10-31", "idCliente":3},
+ {"idPedido":4, "Estado":"No Entregado", "DireccionDeEntrega":"carrera 3", "MetodoDePago":"Tarjeta", "FechaDeEntrega":"2002-10-30", "FechaDeEncargo":"2002-10-31", "idCliente":3},
+ {"idPedido":5, "Estado":"Entregado", "DireccionDeEntrega":"calle 4", "MetodoDePago":"Efectivo", "FechaDeEntrega":"2001-10-30", "FechaDeEncargo":"2001-10-31", "idCliente":4},
+ {"idPedido":6, "Estado":"Entregado", "DireccionDeEntrega":"carrera 1", "MetodoDePago":"Efectivo", "FechaDeEntrega":"2003-09-10", "FechaDeEncargo":"2003-08-21", "idCliente":5},
+ {"idPedido":7, "Estado":"No Entregado", "DireccionDeEntrega":"calle 2", "MetodoDePago":"Tarjeta", "FechaDeEntrega":"2003-05-08", "FechaDeEncargo":"2003-02-01", "idCliente":6},
+ {"idPedido":8, "Estado":"No Entregado", "DireccionDeEntrega":"calle 34", "MetodoDePago":"Efectiv", "FechaDeEntrega":"2002-10-30", "FechaDeEncargo":"2002-04-28", "idCliente":7},
+ {"idPedido":9, "Estado":"Entregado", "DireccionDeEntrega":"calle 22", "MetodoDePago":"Tarjeta", "FechaDeEntrega":"2003-05-08", "FechaDeEncargo":"2002-02-01", "idCliente":6},
+ {"idPedido":10, "Estado":"Entregado", "DireccionDeEntrega":"calle 4", "MetodoDePago":"Efectiv", "FechaDeEntrega":"2003-10-30", "FechaDeEncargo":"2002-04-15", "idCliente":7}]

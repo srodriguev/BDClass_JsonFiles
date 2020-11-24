@@ -1,0 +1,10 @@
+[{"idCliente":1, "Nombre":"Juanita Zuluaga", "Email":"juana@gmail.com", "Direccion":"calle 3 sur", "Telefono":3346798, "Contraseña":"patito12345"},
+ {"idCliente":2, "Nombre":"Pepito Perez", "Email":"pepe@hotmail.com", "Direccion":"calle 45 -3", "Telefono":4327645, "Contraseña":"pepe7896"},
+ {"idCliente":3, "Nombre":"Maria Morales", "Email":"mariala@outlook.es", "Direccion":"carrera 4 sur 32", "Telefono":348769, "Contraseña":"morala736373"},
+ {"idCliente":4, "Nombre":"Josefa Herrera", "Email":"josefefe@gmail.com", "Direccion":"diagonal 34", "Telefono":3560933, "Contraseña":"jsefaa56778"},
+ {"idCliente":5, "Nombre":"Carlos Restrepo", "Email":"crestr@outlook.com", "Direccion":"calle 45 b", "Telefono":3398654, "Contraseña":"carlitos99"},
+ {"idCliente":6, "Nombre":"Roberto Zapata", "Email":"rzapat@hotmail.com", "Direccion":"diag 78-34", "Telefono":3659800, "Contraseña":"zapat76489"},
+ {"idCliente":7, "Nombre":"Juliana Valez", "Email":"jvalde@gmail.com", "Direccion":"calle 39A", "Telefono":3094817, "Contraseña":"contrase\u00f1asectreta123"},
+ {"idCliente":8, "Nombre":"Camilo Martinez", "Email":"cmarti@gmail.com", "Direccion":"Carrera 38 sur", "Telefono":6109812, "Contraseña":"cmartinez123e"},
+ {"idCliente":9, "Nombre":"Monica Toro", "Email":"monitoro12@gmail.com", "Direccion":"Calle 12 #32-05", "Telefono":3986481, "Contraseña":"monifirulais3"},
+ {"idCliente":10, "Nombre":"Juan Mora", "Email":"jmora19@gmail.com", "Direccion":"Diagonal 68", "Telefono":3219843, "Contraseña":"juansitomorita19"}]

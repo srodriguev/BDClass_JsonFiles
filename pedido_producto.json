@@ -1,0 +1,10 @@
+[{"idBodegaProducto":1, "idPedido":1, "cantidad":567, "idRepartidor":1},
+ {"idBodegaProducto":2, "idPedido":2, "cantidad":34, "idRepartidor":1},
+ {"idBodegaProducto":3, "idPedido":3, "cantidad":156, "idRepartidor":2},
+ {"idBodegaProducto":2, "idPedido":6, "cantidad":33, "idRepartidor":1},
+ {"idBodegaProducto":1, "idPedido":1, "cantidad":50, "idRepartidor":2},
+ {"idBodegaProducto":1, "idPedido":4, "cantidad":12, "idRepartidor":1},
+ {"idBodegaProducto":3, "idPedido":5, "cantidad":3, "idRepartidor":2},
+ {"idBodegaProducto":2, "idPedido":2, "cantidad":12, "idRepartidor":1},
+ {"idBodegaProducto":3, "idPedido":7, "cantidad":2, "idRepartidor":1},
+ {"idBodegaProducto":2, "idPedido":9, "cantidad":11, "idRepartidor":2}]

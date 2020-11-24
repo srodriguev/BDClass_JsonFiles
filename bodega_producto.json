@@ -1,0 +1,3 @@
+[{"idBodega":1, "idProducto":3, "Inventario":10, "idBodegaProducto":1},
+ {"idBodega":2, "idProducto":1, "Inventario":8, "idBodegaProducto":2},
+ {"idBodega":1, "idProducto":1, "Inventario":15, "idBodegaProducto":3}]
